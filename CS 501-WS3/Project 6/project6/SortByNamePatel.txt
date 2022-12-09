@@ -1,0 +1,44 @@
+Florida Named Hurricanes 1950 - 2022
+
+Sort by Hurricane Name in Ascending Order
+
+Name	Category	Date
+Agnes	1	6-19-1972
+Alma	2	6-9-1966
+Andrew	5	8-24-1992
+Betsy	3	9-8-1965
+Charley	4	8-13-2004
+Cleo	2	8-27-1964
+David	2	9-3-1979
+Dennis	3	7-10-2005
+Donna	4	9-10-1960
+Dora	2	9-10-1964
+Earl	1	9-3-1998
+Easy	3	9-5-1950
+Elena	3	9-1-1985
+Eloise	3	9-23-1975
+Erin	2	8-3-1995
+Florence	1	9-26-1953
+Flossy	1	9-24-1956
+Floyd	1	10-12-1987
+Frances	2	9-5-2004
+Georges	2	9-25-1998
+Gladys	2	10-19-1972
+Hazel	1	10-9-1953
+Hermine	1	9-2-2016
+Ian	4	9-26-2022
+Inez	1	10-8-1966
+Irene	1	10-15-1999
+Irma	4	9-10-2017
+Isbell	2	10-14-1964
+Ivan	3	9-16-2004
+Jeanne	3	9-26-2004
+Kate	2	11-21-1985
+Katrina	1	8-25-2005
+King	4	10-18-1950
+Matthew	2	10-7-2016
+Michael	5	10-10-2018
+Opal	3	10-4-1995
+Rita	1	9-20-2005
+Sally	2	9-16-2020
+Wilma	3	10-24-2005
